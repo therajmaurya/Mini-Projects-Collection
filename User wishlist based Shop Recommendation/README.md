@@ -1,0 +1,1 @@
+The project is about developing a recommendation system that recommends it's users the best shop where they can buy all of their wishlist items in minimal price. Shops may have discounted prices or COMBO offers as well.
