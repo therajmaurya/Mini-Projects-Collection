@@ -1,0 +1,1 @@
+make hostname of whole cluster same

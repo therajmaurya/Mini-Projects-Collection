@@ -1,0 +1,34 @@
+sudo gedit /etc/hosts
+
+10.10.40.201	master
+10.10.40.202	slave2
+10.10.40.203	slave3
+10.10.40.204	slave4
+10.10.40.205	slave5
+10.10.40.206	slave6
+10.10.40.207	slave7
+10.10.40.208	slave8
+10.10.40.209	slave9
+10.10.40.210	slave10
+10.10.40.211	slave11
+10.10.40.212	slave12
+10.10.40.213	slave13
+10.10.40.214	slave14
+10.10.40.215	slave15
+
+sudo gedit /usr/local/hadoop/etc/hadoop/slaves 
+
+slave2
+slave3
+slave4
+slave5
+slave6
+slave7
+slave8
+slave9
+slave10
+slave11
+slave12
+slave13
+slave14
+slave15
