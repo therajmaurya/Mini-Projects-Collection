@@ -1,0 +1,1 @@
+Built a basic chatbot for Big Data Centre of Excellence Seminar using Python. Code file is lost for now. I intend to build a better chatbot soon.
